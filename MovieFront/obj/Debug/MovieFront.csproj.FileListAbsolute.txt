@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.Form1.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.Properties.Resources.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.Form2.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\bin\Debug\MovieFront.exe.config
+C:\Users\Dell\source\repos\MovieFront\MovieFront\bin\Debug\MovieFront.exe
+C:\Users\Dell\source\repos\MovieFront\MovieFront\bin\Debug\MovieFront.pdb
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.exe
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.pdb
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.Form3.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.genresForm.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.actForm.resources
+C:\Users\Dell\source\repos\MovieFront\MovieFront\obj\Debug\MovieFront.dirForm.resources
